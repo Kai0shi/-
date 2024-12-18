@@ -307,5 +307,23 @@
     padding: 20px; 
 
   }
+
+.btn {
+    color: black;
+    background-color: black;
+    border: none;
+    padding-right: 10px;
+}
+
+.btn:hover, .btn:focus, .btn:active {
+    background-color: #ad0559;
+    color: aliceblue;
+}
+
+.btn:active {
+    background-color: #ad0559;
+    color: aliceblue;
+    box-shadow: none;
+}
   
   
